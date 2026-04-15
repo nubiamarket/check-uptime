@@ -1,31 +1,27 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: nubiamarke # Your GitHub organization or username, where this repository lives
+repo: check-uptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
-
+  - name: Nubia Market
+    url: https://nubiacentraldecompras.com
+  - name: Versión de pruebas de Nubia Market
+    url: https://pruebas.nubiacentraldecompras.com
+  - name: Nueva versión de Nubia Market (Alfa)
+    url: https://nubiamarket.testingapps.es/up
+  - name: RG Bugaderies
+    url: https://app.rgbugaderies.es/up
+  - name: DEMO RG Bugaderies
+    url: https://bugaderies.nubiamarket.com/up
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  # cname: demo.upptime.js.org
+  baseUrl: /check-uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Servicios de Nubia Market
+  introTitle: "Comprobación de estado de los servicios de Nubia Market"
+  introMessage: En esta página se puede comprobar el estado de los servicios de Nubia Market, si se detecta cualquier incidencia o se necesitan monitorizar algún servicio, puede contactar con nosostros vía [correo electrónico](mailto:soporte@nubiamarket.com)
   navbar:
     - title: Status
       href: /
