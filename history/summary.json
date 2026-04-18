@@ -58,9 +58,9 @@
     "url": "https://app.rgbugaderies.es/up",
     "icon": "https://icons.duckduckgo.com/ip3/app.rgbugaderies.es.ico",
     "slug": "rg-bugaderies",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +69,9 @@
     "timeWeek": 558,
     "timeMonth": 558,
     "timeYear": 558,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-18": 0
+    }
   },
   {
     "name": "DEMO RG Bugaderies",
