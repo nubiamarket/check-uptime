@@ -58,19 +58,19 @@
     "url": "https://app.rgbugaderies.es/up",
     "icon": "https://icons.duckduckgo.com/ip3/app.rgbugaderies.es.ico",
     "slug": "rg-bugaderies",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 558,
-    "timeDay": 405,
-    "timeWeek": 558,
-    "timeMonth": 558,
-    "timeYear": 558,
+    "status": "up",
+    "uptime": "99.29%",
+    "uptimeDay": "98.09%",
+    "uptimeWeek": "99.29%",
+    "uptimeMonth": "99.29%",
+    "uptimeYear": "99.29%",
+    "time": 547,
+    "timeDay": 439,
+    "timeWeek": 547,
+    "timeMonth": 547,
+    "timeYear": 547,
     "dailyMinutesDown": {
-      "2026-04-18": 0
+      "2026-04-18": 28
     }
   },
   {
